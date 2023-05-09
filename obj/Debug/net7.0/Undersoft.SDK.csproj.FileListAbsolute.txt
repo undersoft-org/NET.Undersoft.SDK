@@ -1,0 +1,13 @@
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\obj\Debug\net7.0\Undersoft.SDK.csproj.AssemblyReference.cache
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\obj\Debug\net7.0\Undersoft.SDK.GeneratedMSBuildEditorConfig.editorconfig
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\obj\Debug\net7.0\Undersoft.SDK.AssemblyInfoInputs.cache
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\obj\Debug\net7.0\Undersoft.SDK.AssemblyInfo.cs
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\obj\Debug\net7.0\Undersoft.SDK.csproj.CoreCompileInputs.cache
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\bin\Debug\net7.0\Properties\nlog.config
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\bin\Debug\net7.0\Undersoft.SDK.deps.json
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\bin\Debug\net7.0\Undersoft.SDK.dll
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\bin\Debug\net7.0\Undersoft.SDK.pdb
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\obj\Debug\net7.0\Undersoft.SDK.dll
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\obj\Debug\net7.0\refint\Undersoft.SDK.dll
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\obj\Debug\net7.0\Undersoft.SDK.pdb
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\obj\Debug\net7.0\ref\Undersoft.SDK.dll

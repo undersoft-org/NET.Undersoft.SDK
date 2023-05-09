@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Undersoft.SDK</id>
+    <version>2.2.0</version>
+    <authors>Dariusz Hanc</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <repository url="https://github.com/undersoft-org/UltimatR" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Data.SqlClient" version="5.0.1" exclude="Build,Analyzers" />
+        <dependency id="NLog" version="5.1.2" exclude="Build,Analyzers" />
+        <dependency id="NLog.Extensions.Logging" version="5.1.0" exclude="Build,Analyzers" />
+        <dependency id="NLog.Web.AspNetCore" version="5.1.2" exclude="Build,Analyzers" />
+        <dependency id="System.ComponentModel.Annotations" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Linq" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.Emit" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.Emit.ILGeneration" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.Emit.Lightweight" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.ServiceModel.Primitives" version="4.10.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading.Channels" version="4.7.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/Properties/nlog.config" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\bin\Debug\net6.0\Undersoft.SDK.dll" target="lib\net6.0\Undersoft.SDK.dll" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\Properties\nlog.config" target="content\Properties\nlog.config" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK\Properties\nlog.config" target="contentFiles\any\net6.0\Properties\nlog.config" />
+  </files>
+</package>
